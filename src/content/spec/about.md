@@ -1,9 +1,9 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+Hi, I am zhyeeh.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+I am an Automation Test Engineer focused on automotive electronics and autonomous driving. This site is where I collect notes from my work, learning, and experiments.
+
+I am especially interested in test automation, validation workflows, software quality, vehicle systems, and the engineering details behind intelligent driving features.
+
+::github{repo="zhyeeh/zhyeeh.github.io"}
