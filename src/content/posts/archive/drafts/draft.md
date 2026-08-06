@@ -1,5 +1,6 @@
 ---
 title: Draft Example
+slug: draft
 published: 2022-07-01
 tags: [Markdown, Blogging, Demo, Fuwari]
 category: 模板示例

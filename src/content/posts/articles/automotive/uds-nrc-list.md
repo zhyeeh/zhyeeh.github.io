@@ -1,5 +1,6 @@
 ---
 title: UDS 诊断 NRC 列表
+slug: uds-nrc-list
 published: 2026-08-05
 description: 整理 UDS 诊断中的 Negative Response Code，包括常见 NRC 含义、分类和排查思路。
 image: ""

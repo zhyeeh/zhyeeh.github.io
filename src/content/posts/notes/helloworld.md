@@ -1,5 +1,6 @@
 ---
 title: Hello World
+slug: helloworld
 published: 2025-07-28
 description: 个人博客的第一篇文章，用于记录站点开始维护的起点。
 image: ""

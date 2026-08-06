@@ -1,5 +1,6 @@
 ---
 title: ECU 信号映射测试分析系统架构设计 Prompt
+slug: ecu-signal-mapping-analysis-architecture-prompt
 published: 2026-08-07
 description: 用于让大模型继续设计汽车电子 ECU 信号映射测试分析系统的软件架构，重点覆盖架构图、模块职责、LangGraph 设计和阶段实施。
 image: ""
