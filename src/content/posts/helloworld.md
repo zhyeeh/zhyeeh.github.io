@@ -1,12 +1,12 @@
 ---
-title: helloworld
+title: Hello World
 published: 2025-07-28
-description: ""
+description: 个人博客的第一篇文章，用于记录站点开始维护的起点。
 image: ""
-tags: []
-category: ""
+tags: [Blog, Intro]
+category: 随笔
 draft: false
-lang: ""
+lang: zh-CN
 ---
 
 # This is My First Post
